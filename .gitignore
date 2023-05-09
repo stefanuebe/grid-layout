@@ -1,5 +1,9 @@
-
 /.idea/
 /target/
 /webpack.config.js
 /webpack.generated.js
+/frontend/generated
+/frontend/index.html
+/node_modules/
+
+/vaadin-css-grid.iml
